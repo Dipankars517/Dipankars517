@@ -67,7 +67,7 @@
   <br />
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows11/li>
+  	    <li><b>OS:</b> Windows11, Linux/li>
 	    <li><b>Laptop: </b> HP Pavilion 15 Series(i5)</li>
   	    <li><b>Browser: </b> Chrome Web Browser</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
@@ -82,7 +82,7 @@
 
 <a href="https://twitter.com/_thatstoryguy_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dipankars517" height="30" width="40" /></a>
 <a href="http://www.linkedin.com/in/dipankar-sarkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dipankars517" height="30" width="40" /></a>
-<a href="mailto:karunayak1711998@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="dipankars517@gmail.com" height="30" width="40" /></a>
+<a href="mailto: dipankars517@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="dipankars517@gmail.com" height="30" width="40" /></a>
 
 
   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40"  />
