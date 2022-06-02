@@ -28,7 +28,6 @@
 
 <p align="center">
 <a href="http://www.linkedin.com/in/dipankar-sarkar" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="dipankars517" /></a>
-<a href=" target="blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="dipankars517" /></a>
 <a href="https://twitter.com/_thatstoryguy_/" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="dipankars517" /></a>
 <a href="mailto:dipankars517@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="dipankars517" /></a>
 
