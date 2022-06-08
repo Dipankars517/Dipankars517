@@ -67,7 +67,7 @@
   <br />
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows11, Linux/li>
+  	    <li><b>OS:</b> Windows11, Linux</li>
 	    <li><b>Laptop: </b> HP Pavilion 15 Series(i5)</li>
   	    <li><b>Browser: </b> Chrome Web Browser</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
