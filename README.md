@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🌱 I’m currently learning **Web Development**.
+- 🌱 I’m a Front-End **Web Developer**.
 
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
